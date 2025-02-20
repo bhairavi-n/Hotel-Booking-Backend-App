@@ -27,7 +27,7 @@ Ensure you have the following installed on your system:
 ### Steps to Run Locally
 1. Clone the repository:
    ```
-    git clone https://github.com/your-repo/hotel-booking-api.git
+    git clone https://github.com/bhairavi-n/Hotel-Booking-Backend-App.git
     cd hotel-booking-api
    ```
 
