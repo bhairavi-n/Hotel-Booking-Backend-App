@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "Grand Palace Hotel",
+    "location": "New York",
+    "rooms": [
+      { "type": "single", "count": 5, "price": 120 },
+      { "type": "double", "count": 7, "price": 180 },
+      { "type": "suite", "count": 3, "price": 350 }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Seaside Resort",
+    "location": "Miami",
+    "rooms": [
+      { "type": "single", "count": 8, "price": 95 },
+      { "type": "double", "count": 12, "price": 160 },
+      { "type": "suite", "count": 4, "price": 300 }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Mountain View Inn",
+    "location": "Denver",
+    "rooms": [
+      { "type": "single", "count": 10, "price": 100 },
+      { "type": "double", "count": 15, "price": 170 },
+      { "type": "suite", "count": 5, "price": 280 }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Royal Heritage Hotel",
+    "location": "San Francisco",
+    "rooms": [
+      { "type": "single", "count": 6, "price": 130 },
+      { "type": "double", "count": 10, "price": 190 },
+      { "type": "suite", "count": 4, "price": 400 }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Lakeside Retreat",
+    "location": "Chicago",
+    "rooms": [
+      { "type": "single", "count": 4, "price": 110 },
+      { "type": "double", "count": 14, "price": 175 },
+      { "type": "suite", "count": 6, "price": 320 }
+    ]
+  }
+]

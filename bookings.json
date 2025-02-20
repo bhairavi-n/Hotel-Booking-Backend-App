@@ -1,0 +1,15 @@
+[
+    {
+      "id": 1,
+      "userId": 1,
+      "hotelId": 1,
+      "roomType": "double",
+      "rooms": 2,
+      "adults": 2,
+      "kids": 1,
+      "checkIn": "2025-03-01",
+      "checkOut": "2025-03-05",
+      "price": 300
+    }
+  ]
+  
